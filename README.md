@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Swayam 👋
 
-<!--
-**Swayam202/Swayam202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Web Developer | MCA Student
+I'm currently pursuing Master of Computer Applications (MCA) at MES Institute of Management & Career Courses (IMCC), Pune.
+I completed my BBA(CA) from MES Senior College and I'm currently building my skills in web development and programming.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning
+- HTML
+- CSS
+- Python
+- SQL
+- Data Structures & Algorithms (DSA)
+- 
+💻 Interests
+- Web Development
+- Frontend Development
+- Software Development
+- Problem Solving
+
+🎓 Education
+Master of Computer Applications (MCA)
+MES Institute of Management & Career Courses (IMCC), Pune  
+2026 – 2028
+
+Bachelor of Business Administration (Computer Application)
+MES Senior College  
+2023 – 2026
+
+📌 Goals
+- Build strong programming fundamentals
+- Improve my web development skills
+- Learn by building real-world projects
+- Strengthen my problem-solving and DSA skills
+- Prepare for a career in software development
+
+⭐ Thanks for visiting my profile!
