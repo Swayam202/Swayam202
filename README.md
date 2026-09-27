@@ -19,13 +19,13 @@ I completed my BBA(CA) from MES Senior College and I'm currently building my ski
 - Problem Solving
 
 🎓 Education
-Master of Computer Applications (MCA)
-MES Institute of Management & Career Courses (IMCC), Pune  
-2026 – 2028
+ Master of Computer Applications (MCA)
+ MES Institute of Management & Career Courses (IMCC), Pune  
+ 2026 – 2028
 
-Bachelor of Business Administration (Computer Application)
-MES Senior College  
-2023 – 2026
+ Bachelor of Business Administration (Computer Application)
+ MES Senior College  
+ 2023 – 2026
 
 📌 Goals
 - Build strong programming fundamentals
