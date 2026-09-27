@@ -11,7 +11,7 @@ I completed my BBA(CA) from MES Senior College and I'm currently building my ski
 - Python
 - SQL
 - Data Structures & Algorithms (DSA)
-- 
+
 💻 Interests
 - Web Development
 - Frontend Development
